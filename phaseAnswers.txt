@@ -3,3 +3,9 @@ dont include quotes in anything:
 Phase1 String input: "I have to go now. My planet needs me."
 Phase 2 input: "0 4 4 8 12 20" 
 Phase 3 input: "0 8"
+Phase 4 input: "12 43"
+Phase 5 input: "<=>?89" any ordering actually works just those characters
+        12, 13, 14, 15, 8, 9
+        0x3c, 0x3d, 0x3e, 0x3f, 0x38, 0x39 works? which corresponds to "<=>?89"
+
+
